@@ -1,3 +1,6 @@
+This project has been adapted from kb22/Create-Face-Data-from-Images. I have included his README below. 
+
+
 # Create-Face-Data-from-Images
 Using OpenCV Face Detection Neural Network to separate faces from list of images.
 
