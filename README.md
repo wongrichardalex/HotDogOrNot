@@ -1,4 +1,4 @@
-This project has been adapted from kb22/Create-Face-Data-from-Images. I have included his README below. 
+This project has been adapted from kb22/Create-Face-Data-from-Images. I have included the original README below. I will be attempting to modify the OpenCV Face Detection Neural Network in order to try and it make it detect hot dogs.
 
 
 # Create-Face-Data-from-Images
